@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijay-m30
-- 👀 I’m interested in Software developing
-- 🌱 I’m currently learning software testing
-- 💞️ I’m looking to collaborate on software developing and testing projects
+- 👀 I’m interested in Software Developing
+- 🌱 I’m currently learning Software Testing
+- 💞️ I’m looking to collaborate on Software developing and testing projects
 - 📫 How to reach me vijayakumar0839@gmail.com
 
 <!---
